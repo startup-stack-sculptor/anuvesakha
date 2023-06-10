@@ -1,0 +1,31 @@
+** Overview
+This project aims to develop a web browser using the LÖVE framework. The browser will allow users to browse the internet, render web content, and provide essential browser functionalities.
+
+** Architecture
+The web browser project follows a client-server architecture. The client side is built using the LÖVE framework, which provides the necessary tools for creating a graphical user interface and handling user interactions. On the server side, the browser communicates with web servers using HTTP(S) protocols to retrieve web content.
+
+** Concepts
+The project incorporates several key concepts:
+*** User Inteface
+*** Networking
+*** HTML Parsing
+*** Navigation and history Management
+*** Additional Features
+
+
+** Milestones
+*** Milestone 1: Basic UI and Navigation
+*** Milestone 2: HTML Parsing and Rendering
+*** Milestone 3: Enhanced Functionality
+*** Milestone 4: Testing and Refinement
+
+** Setup and Usage
+
+** Contributing
+Contributions to the web browser project are welcome. If you encounter any issues, have ideas for enhancements, or would like to contribute code, please follow the standard open-source contribution guidelines. Fork the repository, make your changes, and submit a pull request for review.
+
+** License
+This project is licensed under the [[https://opensource.org/license/mit/][MIT LICENSE]]. See the LICENSE file for more details.
+
+** Acknowledgments
+We would like to acknowledge the creators and contributors of the LOVE framework, as well as the developers of the gumbo-parser library for their valuable work.
